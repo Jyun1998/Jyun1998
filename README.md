@@ -6,7 +6,7 @@
 - 💻 I'm Data Science Competition geek : [Results]( https://github.com/Jyun1998/Data-Science-Competition-Results "Competition Results")
 - Currently Wokring on: 
   - Personal : LTV Prediction Studies [paper1]( https://arxiv.org/pdf/1912.07753.pdf, "paper1"), [paper2]( https://dl.acm.org/doi/abs/10.1145/3447548.3467079)
-  - Company : LTV Prediction, Datbricks cluster optimization, Business KPI Valuation : 
+  - Company : User Embedding Wide-Deep Unet Attention Network Prediction, SKAN network unknown data prediction , Business KPI Valuation : 
 
 <!---
 Jyun1998/Jyun1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
