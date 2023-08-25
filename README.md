@@ -4,8 +4,11 @@
 - 📫 How to reach me (+cv): [LinkedIn]( https://www.linkedin.com/in/junwoo-yun-43a917174/, "LinkedIn link")
 
 - 💻 I'm Data Science Competition geek : [Results]( https://github.com/Jyun1998/Data-Science-Competition-Results "Competition Results")
+
+- 📝 I have one paper from KDD 2023 ADS Track as a first author : [Paper Link](https://dl.acm.org/doi/abs/10.1145/3580305.3599871)
+
 - Currently Wokring on: 
-  - Personal : LTV Prediction Studies [paper1]( https://arxiv.org/pdf/1912.07753.pdf, "paper1"), [paper2]( https://dl.acm.org/doi/abs/10.1145/3447548.3467079)
+  - Personal : Mobile Game downstream task prediction using multi datasource 
   - Company : User Embedding Wide-Deep Unet Attention Network Prediction, SKAN network unknown data prediction , Business KPI Valuation : 
 
 <!---
