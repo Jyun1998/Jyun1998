@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Yun
 - 👀 I’m interested in Data Science + Machine Learning
-- 🌱 I’m currently in third-year at the Chinese University of Hong Kong with Computer Science - Data Analysis Stream
+- 🌱 I’m graduating Chinese University of Hong Kong with Computer Science - Data Analysis Stream
 - 📫 How to reach me (+cv): [LinkedIn]( https://www.linkedin.com/in/junwoo-yun-43a917174/, "LinkedIn link")
 
 - 💻 I'm Data Science Competition geek : [Results]( https://github.com/Jyun1998/Data-Science-Competition-Results "Competition Results")
